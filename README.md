@@ -29,8 +29,8 @@
  *
  * @constructor
  * @param {Array<string>} languages - ["Spanish", "English"].
- * @param {string} specialization - Focused on backend systems.
- * @param {Array<string>} interests - ["Problem-solving", "Backend", "Cybersecurity"].
+ * @param {string} specialization - Focused on backend systems and web development.
+ * @param {Array<string>} interests - ["Problem-solving", "Backend", "Cybersecurity", "Web Development"].
  * @param {Array<string>} hobbies - ["Padel", "Swimming", "Muay-Thai", "Ukelele"]
  * @param {string} education - Computer Engineering Student.
  * @param {boolean} approachable - True; open to collaborating on exciting projects.
@@ -84,7 +84,7 @@
       <kbd>Front-end</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" title="HTML5"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>
     </kbd>
     <kbd>
@@ -128,8 +128,24 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   </p>
 </div>
+</details>
+
+<details>
+  <summary>GitHub Stats</summary>
+  <br>
+  <p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+  <br>
+  <br>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasjaves&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+  <br>
+  <br>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasjaves&theme=holi-theme">
+  </p>
+
 </details>
 
 </details>
