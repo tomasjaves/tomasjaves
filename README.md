@@ -148,6 +148,15 @@
 
 </details>
 
+<details>
+  <summary>Quote</summary>
+  <br>
+  <blockquote>
+    “I have not failed. I've just found 10,000 ways that won't work. Each one taught me something I needed to know.”
+    <br><strong>Thomas Edison</strong>
+  </blockquote>
+</details>
+
 </details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
