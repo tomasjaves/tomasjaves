@@ -4,7 +4,6 @@
 
 <details>
 <summary>Open profile</summary>
-
 <br>
 <div>
   <div align=center>
@@ -17,33 +16,15 @@
 
 <details>
 <summary>About me</summary>
-<div align="left">
+<br>
 	
-```js
-/**
- * Represents my profile.
- *
- * @constructor
- * @param {Array<string>} languages - ["Spanish", "English"].
- * @param {string} specialization - Focused on backend systems and web development.
- * @param {Array<string>} interests - ["Problem-solving", "Backend", "Cybersecurity", "Web Development"].
- * @param {Array<string>} hobbies - ["Padel", "Swimming", "Muay-Thai", "Ukelele"]
- * @param {string} education - Computer Engineering Student.
- * @param {boolean} approachable - True; open to collaborating on exciting projects.
- * @param {string} strength - Perseverant.
- * @param {string} weakness - Perfectionism.
- *
- * @throws {Punch} To each and every bug encountered.
- *
- * @returns {Object} Tomás Javes.
- */
-```
+![image](https://github.com/user-attachments/assets/7ca7308d-9a01-4b0e-aed9-8b5dc0fae61d)
 
-</div>
 </details>
 
 <details>
 <summary>Tools</summary>
+<br>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -130,27 +111,27 @@
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
-  <br>
-  <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-  <br>
-  <br>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasjaves&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<summary>GitHub Stats</summary>
+<br>
+<p align="center">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
   <br>
   <br>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasjaves&theme=holi-theme">
-  </p>
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasjaves&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+  <br>
+  <br>
+       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasjaves&theme=holi-theme">
+</p>
 
 </details>
 
 <details>
-  <summary>Quote</summary>
-  <br>
-  <blockquote>
+<summary>Quote</summary>
+<br>
+<blockquote>
     “I have not failed. I've just found 10,000 ways that won't work. Each one taught me something I needed to know.”
     <br><strong>Thomas Edison</strong>
-  </blockquote>
+</blockquote>
 </details>
 
 </details>
