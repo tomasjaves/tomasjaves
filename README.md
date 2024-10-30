@@ -149,7 +149,7 @@
  <img border="0" alt="Tomás Javes IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
-  <a href="tomasjaves@gmail.com">
+  <a href="mailto:tomasjaves@gmail.com">
  <img border="0" alt="Tomás Javes Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
