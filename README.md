@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
@@ -113,14 +114,16 @@
 <details>
 <summary>GitHub Stats</summary>
 <br>
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-  <br>
-  <br>
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasjaves&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-  <br>
-  <br>
        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasjaves&theme=holi-theme">
+       <br>
+       <br>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasjaves&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </p>
 
 </details>
@@ -141,6 +144,15 @@
 </div>
 
 <br>
+<p align = "center">
+ <a href="https://www.instagram.com/tomasjaves">
+ <img border="0" alt="Tomás Javes IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+ </a>
+
+  <a href="tomasjaves@gmail.com">
+ <img border="0" alt="Tomás Javes Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ </a>
+</p>
 
 <p align = "center">
 	<img src="https://komarev.com/ghpvc/?username=tomasjaves&style=plastic&color=D2A679" alt="PVs"/>
@@ -149,3 +161,5 @@
 <p align="center">
   <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
