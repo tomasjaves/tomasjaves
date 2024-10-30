@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align = "center">
+	<img src="https://komarev.com/ghpvc/?username=tomasjaves&style=plastic&color=D2A679" alt="PVs"/>
+</p>
 
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
@@ -154,9 +156,7 @@
  </a>
 </p>
 
-<p align = "center">
-	<img src="https://komarev.com/ghpvc/?username=tomasjaves&style=plastic&color=D2A679" alt="PVs"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
