@@ -40,8 +40,6 @@
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" alt="ts" title="Typescript"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" alt="r" title="R" />
-      <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg" alt="C" title="C"/>
-      <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prolog/prolog-original.svg" alt="pl" title="Prolog"/>
     </kbd>
     <kbd>
       <kbd>Design Tools</kbd>
