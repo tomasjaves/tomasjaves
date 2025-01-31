@@ -126,8 +126,8 @@
 <summary>Quote</summary>
 <br>
 <blockquote>
-    “I have not failed. I've just found 10,000 ways that won't work. Each one taught me something I needed to know.”
-    <br><strong>Thomas Edison</strong>
+    “Simplicity is the soul of efficiency.”
+    <br><strong>Austin Freeman</strong>
 </blockquote>
 </details>
 
