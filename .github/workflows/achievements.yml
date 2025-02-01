@@ -1,5 +1,5 @@
 name: Compact display
-uses: lowlighter/metrics@latest
+uses: tomasjaves/metrics@latest
 with:
   filename: metrics.plugin.achievements.compact.svg
   token: ${{ secrets.METRICS_TOKEN }}
