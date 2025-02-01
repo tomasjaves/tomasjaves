@@ -136,8 +136,8 @@
        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasjaves&theme=holi-theme">
        <br>
        <br>
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasjaves&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&layout=compact&theme=github_dark&langs_count=10&include_all_commits=true&exclude_repo=kasweb">
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasjaves&include_all_commits=true&theme=github_dark&show_icons=true">
        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
