@@ -135,7 +135,7 @@
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/github-metrics.svg" alt="GitHub Metrics"/>
   <img align="center" src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/achievements.svg" alt="GitHub Achievements"/>
-  <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/spotify.svg" alt="Spotify Music"/>
+  <iframe src="https://open.spotify.com/playlist/3ERGfv8wt1jibAM8557iDx?si=ec1Y3JnSQq2x_KCFPwlmKQ width="" height="" frameborder="0" allowtransparency="" allow=""></iframe>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
