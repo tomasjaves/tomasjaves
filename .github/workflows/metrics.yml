@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 16 * * *"}]  # Se ejecuta todos los días a las 16:00 UTC
+  schedule: [{cron: "0 */12 * * *"}] # Se ejecuta cada 12 horas
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
