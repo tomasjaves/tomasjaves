@@ -133,14 +133,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/github-metrics.svg" alt="GitHub Metrics" width="80%">
+  <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/github-metrics.svg" alt="GitHub Metrics" width="60%">
 </p>
 
 <!-- Contenedor principal centrado -->
 <div style="display: flex; justify-content: center; width: 100%;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 80px; max-width: 1000px; flex-wrap: wrap;">
-    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/achievements.svg" alt="GitHub Achievements" width="45%" style="margin-right: 5%;">
-    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/metrics.plugin.achievements.svg" alt="GitHub Achievements" width="45%" style="margin-left: 5%;">
+    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/achievements.svg" alt="GitHub Achievements" width="60%" style="margin-right: 5%;">
+    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/metrics.plugin.achievements.svg" alt="GitHub Achievements" width="60%" style="margin-left: 5%;">
   </div>
 </div>
 
