@@ -13,7 +13,7 @@
       <img alt="Avatar photo of tomasjaves" src="https://i.postimg.cc/HnxJXzgx/avataaars.png" alt="Avatar photo of tomasjaves">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=D2A679&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Tomás Javes;Welcome+to+My+GitHub+Profile;Currently studying Comp. Engineering;Gym+and+Calisthenics+Enthusiast;Hardworking+and+Ambitious;Music+and+Programming+Lover;God's plan." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=D2A679&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Tomás Javes;Welcome+to+My+GitHub+Profile;Currently studying Comp. Engineering;Calisthenics+and+Gym+Enthusiast;Hardworking+and+Ambitious;Music+and+Programming+Lover;God's plan." alt="Typing SVG" /></a>
   </div>
 </div>
 
