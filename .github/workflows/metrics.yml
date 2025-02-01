@@ -1,35 +1,13 @@
 name: Metrics
 on:
-  schedule: [{cron: "*/30 * * * *"}]  # Se ejecuta cada media hora
+  schedule: [{cron: "0 16 * * *"}]  # Se ejecuta cada día a las 16:00 UTC
   workflow_dispatch:
   push:
     branches: ["master", "main"]
 
 jobs:
-  refresh-spotify-token:
-    runs-on: ubuntu-latest
-    outputs:
-      access_token: ${{ steps.refresh_token.outputs.access_token }}
-    steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v3
-
-      - name: 🔄 Refresh Spotify Token
-        id: refresh_token
-        run: |
-          RESPONSE=$(curl -s -X POST "https://accounts.spotify.com/api/token" \
-            -H "Content-Type: application/x-www-form-urlencoded" \
-            -d "grant_type=refresh_token" \
-            -d "refresh_token=${{ secrets.SPOTIFY_REFRESH_TOKEN }}" \
-            -d "client_id=${{ secrets.SPOTIFY_CLIENT_ID }}" \
-            -d "client_secret=${{ secrets.SPOTIFY_CLIENT_SECRET }}")
-          
-          ACCESS_TOKEN=$(echo "$RESPONSE" | jq -r '.access_token')
-          echo "::set-output name=access_token::$ACCESS_TOKEN"
-
   github-metrics:
     runs-on: ubuntu-latest
-    needs: refresh-spotify-token  # Espera a que se actualice el token
     permissions:
       contents: write
     steps:
@@ -53,17 +31,3 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
-
-      - name: 🎵 Generate Spotify Music Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: spotify.svg
-          base: ""
-          template: classic
-          config_timezone: Europe/Madrid
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_mode: top
-          plugin_music_limit: 3
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }},${{ secrets.SPOTIFY_CLIENT_SECRET }},${{ needs.refresh-spotify-token.outputs.access_token }}"
