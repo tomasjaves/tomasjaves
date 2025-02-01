@@ -45,7 +45,7 @@ jobs:
           plugin_achievements_display: compact
           plugin_fortune: yes
 
-      - name: 🎵 Generate Spotify Music Stats
+            - name: 🎵 Generate Spotify Music Stats
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -57,4 +57,4 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_limit: 3
-          plugin_music_token: ${{ secrets.SPOTIFY_ACCESS_TOKEN }}
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }};${{ secrets.SPOTIFY_CLIENT_SECRET }};${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
