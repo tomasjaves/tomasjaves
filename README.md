@@ -138,7 +138,7 @@
        <br>
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&layout=compact&theme=github_dark&langs_count=10&include_all_commits=true&exclude_repo=kasweb">
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasjaves&include_all_commits=true&theme=github_dark&show_icons=true">
-       <img src="/github-metrics.svg" alt="Metrics">
+       <img src="https://github.com/tomasjaves/tomasjaves/blob/master/github-metrics.svg" alt="GitHub Metrics"/>
        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
