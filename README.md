@@ -133,18 +133,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/github-metrics.svg" alt="GitHub Metrics" width="37%"/>
 </p>
 
 <!-- Contenedor para alinear los achievements en una sola fila -->
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/achievements.svg" alt="GitHub Achievements" width="48%">
-    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/metrics.plugin.achievements.svg" alt="GitHub Achievements" width="48%">
+    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/achievements.svg" alt="GitHub Achievements" width="40%">
+    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/metrics.plugin.achievements.svg" alt="GitHub Achievements" width="35%">
   </div>
 </div>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
