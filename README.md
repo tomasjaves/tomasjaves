@@ -130,37 +130,15 @@
 <details>
 <summary>GitHub Stats</summary>
 <br>
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <!-- Streak Stats (racha de commits) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomasjaves&theme=holi-theme" alt="GitHub Streak Stats"/>
-
-  <br><br>
-
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&layout=compact&theme=github_dark&langs_count=10&include_all_commits=true&exclude_repo=kasweb" alt="Top Languages"/>
-
-  <br><br>
-
-  <!-- Estadísticas generales de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasjaves&include_all_commits=true&theme=github_dark&show_icons=true" alt="GitHub Stats"/>
-
-  <br><br>
-
-  <!-- GitHub Metrics -->
-  <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/github-metrics.svg" alt="GitHub Metrics"/>
-
-  <br><br>
-
-  <!-- Achievements separados -->
-  <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/achievements.svg" alt="GitHub Achievements"/>
-
-  <br><br>
-
-  <!-- GIF decorativo -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img align="center" src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/github-metrics.svg" alt="GitHub Metrics"/>
+  <img align="center" src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/achievements.svg" alt="GitHub Achievements"/>
+  <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/spotify.svg" alt="Spotify Music"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </details>
 
