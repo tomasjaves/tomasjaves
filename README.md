@@ -134,6 +134,7 @@
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/github-metrics.svg" alt="GitHub Metrics"/>
+  <br><br>
   <img align="center" src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/achievements.svg" alt="GitHub Achievements"/>
   <img align="center" src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/metrics.plugin.achievements.svg" alt="GitHub Achievements"/>
 </p>
