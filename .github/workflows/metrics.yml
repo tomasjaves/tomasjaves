@@ -11,7 +11,7 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🔄 Refresh Spotify Token
+       - name: 🔄 Refresh Spotify Token
         run: |
           RESPONSE=$(curl -s -X POST "https://accounts.spotify.com/api/token" \
             -H "Content-Type: application/x-www-form-urlencoded" \
@@ -22,7 +22,7 @@ jobs:
           
           ACCESS_TOKEN=$(echo $RESPONSE | jq -r '.access_token')
 
-          curl -X PATCH -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          curl -X PUT -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/tomasjaves/tomasjaves/actions/secrets/SPOTIFY_ACCESS_TOKEN \
             -d "{\"encrypted_value\":\"$ACCESS_TOKEN\"}"
@@ -66,4 +66,4 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: top
           plugin_music_limit: 3
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_ACCESS_TOKEN }}"
