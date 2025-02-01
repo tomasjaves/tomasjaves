@@ -21,7 +21,29 @@
 <summary>About me</summary>
 <br>
 	
-![image](https://github.com/user-attachments/assets/7ca7308d-9a01-4b0e-aed9-8b5dc0fae61d)
+<div align="left">
+
+```python
+/**
+ * Represents my profile.
+ *
+ * @constructor
+ * @param {Array<string>} languages - ["Spanish", "English"].
+ * @param {string} specialization - Focused on backend systems and web development.
+ * @param {Array<string>} interests - ["Problem-solving", "Backend", "Cybersecurity", "Web Development"].
+ * @param {Array<string>} hobbies - ["Padel", "Swimming", "Muay-Thai", "Ukelele"]
+ * @param {string} education - Computer Engineering Student.
+ * @param {boolean} approachable - True; open to collaborating on exciting projects.
+ * @param {string} strength - Perseverant.
+ * @param {string} weakness - Perfectionism.
+ *
+ * @throws {Punch} To each and every bug encountered.
+ *
+ * @returns {Object} Tomás Javes.
+ */
+```
+
+</div>
 
 </details>
 
