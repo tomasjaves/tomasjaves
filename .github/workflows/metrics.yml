@@ -54,11 +54,17 @@ jobs:
           plugin_achievements_display: compact
           plugin_fortune: yes
 
-      - name: 🎵 Spotify - Random track from playlist
+      - name: 🎵 Generate Spotify Music Stats
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.music.playlist.spotify.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: spotify.svg
           base: ""
+          template: classic
+          config_timezone: Europe/Madrid
           plugin_music: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/3ERGfv8wt1jibAM8557iDx
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_limit: 3
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }};${{ secrets.SPOTIFY_CLIENT_SECRET }};${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
