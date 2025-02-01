@@ -23,7 +23,7 @@
 	
 <div align="left">
 
-```python
+```cobol
 /**
  * Represents my profile.
  *
