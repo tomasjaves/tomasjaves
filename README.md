@@ -12,6 +12,11 @@
   <div align=center>
     <img alt="Avatar photo of tomasjaves" src="https://i.postimg.cc/HnxJXzgx/avataaars.png">
   </div>
+  <div align=center>
+
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8F41EA&width=435&lines=Hello%2C+my+name+is+Tomás!)](https://git.io/typing-svg)
+    
+  </div>
 </div>
 
 <details>
