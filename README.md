@@ -14,8 +14,10 @@
   </div>
   <div align=center>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8F41EA&width=435&lines=Hello%2C+my+name+is+Tomás!)](https://git.io/typing-svg)
-  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8F41EA&width=435&lines=Hello%2C+my+name+is+Tomás!)(https://git.io/typing-svg)
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=D2A679&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Tomás Javes;Welcome+to+My+GitHub+Profile;Currently studying Comp. Engineering;Calisthenics+and+Gym+Enthusiast;Hardworking+and+Ambitious;Music+and+Programming+Lover;God's plan." alt="Typing SVG" /></a>
+
   </div>
 </div>
 
