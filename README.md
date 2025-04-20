@@ -67,6 +67,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" alt="r" title="R" />
     </kbd>
+    <br>
     <kbd>
       <kbd>Databases / ORM</kbd>
       <br>
@@ -74,7 +75,6 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
     </kbd>
-    <br>
     <kbd>
       <kbd>Frameworks, Platforms & Libraries</kbd>
       <br>
