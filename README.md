@@ -68,12 +68,11 @@
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" alt="r" title="R" />
     </kbd>
     <kbd>
-      <kbd>Design</kbd>
+      <kbd>Databases / ORM</kbd>
       <br>
       <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" alt="canva" title="Canva" />
-      <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" alt="figma" title="Figma"/>
-      <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" alt="blender" title="Blender"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
     </kbd>
     <br><br>
     <kbd>
@@ -86,11 +85,12 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
     </kbd>
     <kbd>
-      <kbd>Databases / ORM</kbd>
+      <kbd>Design</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" alt="canva" title="Canva" />
+      <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" alt="figma" title="Figma"/>
+      <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" alt="blender" title="Blender"/>
     </kbd>
   </p>
 </div>
