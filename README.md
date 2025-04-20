@@ -11,10 +11,6 @@
 <div>
   <div align=center>
     <img alt="Avatar photo of tomasjaves" src="https://i.postimg.cc/HnxJXzgx/avataaars.png">
-  </div>  <div align=center>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8F41EA&width=435&lines=Hello%2C+my+name+is+Tomás!" alt="Typing SVG" />
-    </a>
   </div>
 </div>
 
