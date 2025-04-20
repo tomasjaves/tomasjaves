@@ -134,42 +134,21 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/github-metrics.svg" alt="GitHub Metrics" width="50%">
-</p>
-
-<!-- Contenedor para alinear y espaciar correctamente -->
-<div style="display: flex; justify-content: center; width: 100%;">
-  <div style="display: flex; justify-content: space-between; align-items: center; gap: 50px; max-width: 1000px; flex-wrap: wrap;">
-    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/achievements.svg" alt="GitHub Achievements" width="50%">
-    <img src="https://raw.githubusercontent.com/tomasjaves/tomasjaves/master/metrics.plugin.achievements.svg" alt="GitHub Achievements" width="45%">
-  </div>
-</div>
-
+![](https://nirzak-streak-stats.vercel.app/?user=tomasjaves&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasjaves&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tomasjaves&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-profile-trophy.vercel.app/?username=tomasjaves&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </details>
 
 <details>
-<summary>Socials</summary>
-<br>
-	
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomasjaves) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomasjaves@gmail.com) 
-
-</div>
-
-</details>
-
-<details>
 <summary>Quote</summary>
 <br>
-<blockquote>
-    “Simplicity is the soul of efficiency.”
-    <br><strong>Austin Freeman</strong>
-</blockquote>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 </details>
 
 </details>
@@ -183,12 +162,6 @@
   <a href="mailto:tomasjaves@gmail.com">
  <img border="0" alt="Tomás Javes Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
