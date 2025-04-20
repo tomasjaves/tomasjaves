@@ -75,6 +75,7 @@
       <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" alt="figma" title="Figma"/>
       <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" alt="blender" title="Blender"/>
     </kbd>
+    <br><br>
     <kbd>
       <kbd>Frameworks, Platforms & Libraries</kbd>
       <br>
