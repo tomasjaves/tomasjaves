@@ -33,11 +33,11 @@
  * @param {Array<string>} languages - ["Spanish", "English"].
  * @param {string} specialization - Focused on backend systems and web development.
  * @param {Array<string>} interests - ["Problem-solving", "Backend", "Cybersecurity", "Web Development"].
- * @param {Array<string>} hobbies - ["Padel", "Swimming", "Muay-Thai", "Ukelele"]
- * @param {string} education - Computer Engineering Student.
- * @param {boolean} approachable - True; open to collaborating on exciting projects.
- * @param {string} strength - Perseverant.
- * @param {string} weakness - Perfectionism.
+ * @param {Array<string>} hobbies - ["Padel", "Swimming", "Muay-Thai", "Ukelele", "Calisthenics", "Gym"]
+ * @param {string} education - Software Engineering Student at the University of La Laguna.
+ * @param {string} learning - Currently learning C++, TypeScript, Ruby, Python & HTML.
+ * @param {string} music - Music enthusiast with a diverse taste, from classical to rock.
+ * @param {string} animals - Animal lover and proud owner of a labrador puppy.
  *
  * @throws {Punch} To each and every bug encountered.
  *
@@ -148,6 +148,18 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</details>
+
+<details>
+<summary>Socials</summary>
+<br>
+	
+<div align="left">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomasjaves) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomasjaves@gmail.com) 
+
+</div>
 
 </details>
 
