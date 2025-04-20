@@ -20,24 +20,3 @@ jobs:
           template: classic
           config_timezone: Europe/Madrid
 
-      - name: 🏆 Generate Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: achievements.svg
-          base: ""
-          template: classic
-          config_timezone: Europe/Madrid
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
-
-      - name: Detailed display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: polyglot, developer, deployer, infographile, manager
-
