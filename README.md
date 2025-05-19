@@ -14,7 +14,7 @@
   </div>
   <div align=center>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=D2A679&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Tomás+Javes;Welcome+to+My+GitHub+Profile;Currently+studying+Soft.+Engineering;Calisthenics+and+Gym+Enthusiast;Hardworking+and+Ambitious;Music+and+Programming+Lover;God's+plan.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=D2A679&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Tomás+Javes;Welcome+to+My+GitHub+Profile;Currently+studying+Computer+Science;Calisthenics+and+Gym+Enthusiast;Hardworking+and+Ambitious;Music+and+Programming+Lover;God's+plan.)](https://git.io/typing-svg)
 
   </div>
 </div>
