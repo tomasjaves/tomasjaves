@@ -60,12 +60,9 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" />
       <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-original.svg" alt="rb" title="Ruby"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" alt="ts" title="Typescript"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" title="HTML5"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" alt="r" title="R" />
     </kbd>
     <br>
     <kbd>
