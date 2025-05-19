@@ -70,7 +70,6 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
     </kbd>
     <kbd>
       <kbd>Frameworks, Platforms & Libraries</kbd>
